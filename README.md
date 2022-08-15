@@ -5,6 +5,7 @@ This project was created following an online tutorial made by Chris Blakely.
 ## Source:
  
 https://www.youtube.com/watch?v=8KB3DHI-QbM
+
 https://github.com/chrisblakely01/react-notes-app
  
 ### Things I took away from this project:
